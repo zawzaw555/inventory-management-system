@@ -1,0 +1,27 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Eclipse
+.project
+.settings/
+.classpath
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+target/
+
+# IDE
+.idea/
+.DS_Store
+
+# Database backups
+database-backup/
+*.sql.bak
+
+# Logs
+*.log
